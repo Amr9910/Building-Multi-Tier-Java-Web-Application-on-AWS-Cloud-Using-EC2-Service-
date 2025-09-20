@@ -23,7 +23,9 @@ step 2: chose application and os image
 
 <img width="1886" height="818" alt="image" src="https://github.com/user-attachments/assets/a254187a-e966-4dce-ae15-6d6be48e98a0" />
 
-step 3: choose instance type 
+# step 3:
+
+choose instance type 
 
 <img width="1253" height="251" alt="image" src="https://github.com/user-attachments/assets/2ec3b8c2-679e-485a-a87c-bd433998d388" />
 
