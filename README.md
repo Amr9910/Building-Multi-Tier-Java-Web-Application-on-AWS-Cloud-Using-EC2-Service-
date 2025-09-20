@@ -14,4 +14,25 @@ The backend servers (MySQL, Memcache and RabbitMQ) for our application will sit 
 
 # Project Implementation
 
+Step 1: Create 3 VM 
+We’ll create 3 VM. one for the application server (tomcat instance),one for the backend services (mysql instances), one for the backend services(memcache instance, rabbitmq instance) and Application load balancer(nginx). 
+
+<img width="1911" height="870" alt="Screenshot 2025-09-18 224837" src="https://github.com/user-attachments/assets/942fad9a-13c2-4376-87f6-a4570ef944af" />
+
+step 2: chose application and os image 
+
+<img width="1886" height="818" alt="image" src="https://github.com/user-attachments/assets/a254187a-e966-4dce-ae15-6d6be48e98a0" />
+
+step 3: choose instance type 
+
+<img width="1253" height="251" alt="image" src="https://github.com/user-attachments/assets/2ec3b8c2-679e-485a-a87c-bd433998d388" />
+
+step 4: create key pair 
+
+<img width="677" height="636" alt="image" src="https://github.com/user-attachments/assets/b14db209-2084-4156-87de-5272ce6f9b6a" />
+
+step 5: create security Group 
+
+<img width="1241" height="617" alt="image" src="https://github.com/user-attachments/assets/28b9ea24-cfb6-403b-8ade-248ff09f04e4" />
+
 
